@@ -1,0 +1,5 @@
+# downloaded data
+/data/*
+
+# output data
+/outputs/*
