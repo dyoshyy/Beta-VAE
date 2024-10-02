@@ -1,0 +1,11 @@
+# downloaded data
+/data/*
+
+# output data
+/outputs/*
+
+# checkpoints
+/checkpoints/*
+
+# pycache
+__pycache__/*
